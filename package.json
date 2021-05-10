@@ -1,10 +1,9 @@
 {
   "name": "api-restful",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon src/server.js",
+    "dev": "nodemon src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nery93/API-Restful.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nery93/API-Restful/issues"
+  },
+  "homepage": "https://github.com/Nery93/API-Restful#readme",
+  "description": ""
 }
